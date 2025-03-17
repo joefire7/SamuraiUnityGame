@@ -1,0 +1,363 @@
+Unity Editor version:    2022.3.29f1 (8d510ca76d2b)
+Branch:                  2022.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.6.3 (Build 22G436)
+Darwin version:          22.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/jonnathanaponte/Documents/Unity Documents/Gospel Samurai
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60463
+Successfully changed project path to: /Users/jonnathanaponte/Documents/Unity Documents/Gospel Samurai
+/Users/jonnathanaponte/Documents/Unity Documents/Gospel Samurai
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8249467136] Host "[IP] 192.168.68.62 [Port] 0 [Flags] 2 [Guid] 3699420552 [EditorId] 3699420552 [Version] 1048832 [Id] OSXEditor(0,Jonnathans-MacBook-Pro-3.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8249467136] Host "[IP] 192.168.68.62 [Port] 0 [Flags] 2 [Guid] 3699420552 [EditorId] 3699420552 [Version] 1048832 [Id] OSXEditor(0,Jonnathans-MacBook-Pro-3.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 9 workers.
+Refreshing native plugins compatible for Editor in 32.03 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.29f1 (8d510ca76d2b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jonnathanaponte/Documents/Unity Documents/Gospel Samurai/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 Pro (high power)
+Metal devices available: 1
+0: Apple M1 Pro (high power)
+Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56663
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.29f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008724 seconds.
+- Loaded All Assemblies, in  0.340 seconds
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 181 ms
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.517 seconds
+Domain Reload Profiling: 857ms
+	BeginReloadAssembly (125ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (136ms)
+		LoadAssemblies (136ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (122ms)
+			TypeCache.Refresh (121ms)
+				TypeCache.ScanAssembly (106ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (517ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (475ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (375ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (68ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.729 seconds
+Refreshing native plugins compatible for Editor in 2.37 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.765 seconds
+Domain Reload Profiling: 1726ms
+	BeginReloadAssembly (97ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (17ms)
+	LoadAllAssembliesAndSetupDomain (812ms)
+		LoadAssemblies (412ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (211ms)
+			TypeCache.Refresh (181ms)
+				TypeCache.ScanAssembly (161ms)
+			ScanForSourceGeneratedMonoScriptInfo (21ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (765ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (572ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (442ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.43 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7434 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 142 unused Assets / (4.6 MB). Loaded Objects now: 7957.
+Memory consumption went from 353.3 MB to 348.6 MB.
+Total: 6.828000 ms (FindLiveObjects: 0.321792 ms CreateObjectMapping: 0.095667 ms MarkObjects: 5.065417 ms  DeleteObjects: 1.344291 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 313796.170239 seconds.
+  path: Assets/StylizedCrab/Textures/T_Crab_N.tga
+  artifactKey: Guid(0cca10bf44b71fb43981e5a84851b12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Textures/T_Crab_N.tga using Guid(0cca10bf44b71fb43981e5a84851b12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555bd12e853732c67a758600d19a1d60') in 0.053357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/StylizedCrab/Textures/T_Crab_Rd_D.tga
+  artifactKey: Guid(907972321e4565949aaebb101ecb69d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Textures/T_Crab_Rd_D.tga using Guid(907972321e4565949aaebb101ecb69d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1339729ec3005316e00b2b0ac270bfe0') in 0.007336 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.599166 seconds.
+  path: Assets/StylizedCrab/Prefabs/PC/Crab_Ye.prefab
+  artifactKey: Guid(55d4ba314da35444a843151f3e07cb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Prefabs/PC/Crab_Ye.prefab using Guid(55d4ba314da35444a843151f3e07cb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fd57e688f78a38a4c027e3f4438675') in 0.186641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 151
+========================================================================
+Received Import Request.
+  Time since last request: 0.478277 seconds.
+  path: Assets/StylizedCrab/Prefabs/PC/Crab_Rd.prefab
+  artifactKey: Guid(2ed8d1f7cc66c47439c47acce852941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Prefabs/PC/Crab_Rd.prefab using Guid(2ed8d1f7cc66c47439c47acce852941d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316ad80d349ce1d0d43d9c1223d9c511') in 0.025641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 151
+========================================================================
+Received Import Request.
+  Time since last request: 25.157122 seconds.
+  path: Assets/StylizedCrab/Textures/T_Crab_Ye_D.tga
+  artifactKey: Guid(288ffd2eadc1164459aaf340dd2fc02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Textures/T_Crab_Ye_D.tga using Guid(288ffd2eadc1164459aaf340dd2fc02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51238ce8656b899bcfd2846da800a24') in 0.019812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 16.667566 seconds.
+  path: Assets/StylizedCrab/Materials/PC
+  artifactKey: Guid(e2aaeeefada7a964d866900ac3b65e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Materials/PC using Guid(e2aaeeefada7a964d866900ac3b65e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b1cecfa4e22c9e625b571e8118c65e3') in 0.000756 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.895599 seconds.
+  path: Assets/StylizedCrab/Prefabs
+  artifactKey: Guid(42880b82afa93114a82fd35a5a9e5aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Prefabs using Guid(42880b82afa93114a82fd35a5a9e5aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214e31f68bba08d3d97a2472bbf0b4ca') in 0.017518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.561839 seconds.
+  path: Assets/StylizedCrab/Prefabs/Mobile
+  artifactKey: Guid(3738da687d05676419f244ad1741bc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Prefabs/Mobile using Guid(3738da687d05676419f244ad1741bc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0eeaa410d5b59b0988f055f244b377') in 0.000448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.699166 seconds.
+  path: Assets/StylizedCrab/Prefabs/PC
+  artifactKey: Guid(6aa8838101b83a944a3c598969af55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Prefabs/PC using Guid(6aa8838101b83a944a3c598969af55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a315e1025ea97fca66ed4c6e8f7470f') in 0.000911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.704661 seconds.
+  path: Assets/StylizedCrab/Prefabs/PC/Crab_Bl.prefab
+  artifactKey: Guid(bb887085c6b18d34f8ab0f2f4189db25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Prefabs/PC/Crab_Bl.prefab using Guid(bb887085c6b18d34f8ab0f2f4189db25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ee6cdc9a959aeeb76bc05a6eee134f') in 0.105289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 151
+========================================================================
+Received Import Request.
+  Time since last request: 147.803477 seconds.
+  path: Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(bdede76083021864d8ff8bf23b2f37f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRenderPipelineGlobalSettings.asset using Guid(bdede76083021864d8ff8bf23b2f37f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d00a863dac2bd245fdac8be75d8fe87') in 0.005259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 64.342027 seconds.
+  path: Assets/Settings/VolumeProfiles
+  artifactKey: Guid(3234eb6db4457e44d82d10ef55d06ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/VolumeProfiles using Guid(3234eb6db4457e44d82d10ef55d06ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77667ea4680c22c0937a5a21a43b034e') in 0.000816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Switching render pipeline 5e6cbd92db86f4b18aec3ed561671858 -> 4b83569d67af61e458304325a23e5dfd
+Refreshing native plugins compatible for Editor in 8.47 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (4.6 MB). Loaded Objects now: 8110.
+Memory consumption went from 204.1 MB to 199.5 MB.
+Total: 21.088166 ms (FindLiveObjects: 0.278125 ms CreateObjectMapping: 0.091875 ms MarkObjects: 19.689458 ms  DeleteObjects: 1.027958 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:srp/default-pipeline: b43865d976fa164e850334522ae3d5df -> e5c6db29bd684f1ba8cee35d16768185
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 154.357159 seconds.
+  path: Assets/Scenes/Garden/Art/Terrain/Textures/Grass_02_T_A.png
+  artifactKey: Guid(ea2e14fa369ba674aaa689e56d90fd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Garden/Art/Terrain/Textures/Grass_02_T_A.png using Guid(ea2e14fa369ba674aaa689e56d90fd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ec50c2f354f8942e750ef5c589fdb0') in 0.047111 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Scenes/Garden/Art/Terrain/Textures/Gravel_01_T_MAOS.png
+  artifactKey: Guid(8390bb6d955aa9541879c5a62b0cbec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Garden/Art/Terrain/Textures/Gravel_01_T_MAOS.png using Guid(8390bb6d955aa9541879c5a62b0cbec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3206163c09f5a3e3be3665cf94f9e363') in 0.007183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 25.427739 seconds.
+  path: Assets/StylizedCrab/Textures/T_Crab_Rd_D.tga
+  artifactKey: Guid(907972321e4565949aaebb101ecb69d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Textures/T_Crab_Rd_D.tga using Guid(907972321e4565949aaebb101ecb69d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91df9207c65bb8f527da4e6a1d068bf8') in 0.007924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.427390 seconds.
+  path: Assets/StylizedCrab/Textures/T_Crab_N.tga
+  artifactKey: Guid(0cca10bf44b71fb43981e5a84851b12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Textures/T_Crab_N.tga using Guid(0cca10bf44b71fb43981e5a84851b12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b401727a7790844db4dd4dac775623') in 0.010612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 235.888061 seconds.
+  path: Assets/StylizedCrab/Textures/T_Crab_Ye_D.tga
+  artifactKey: Guid(288ffd2eadc1164459aaf340dd2fc02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedCrab/Textures/T_Crab_Ye_D.tga using Guid(288ffd2eadc1164459aaf340dd2fc02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8027a9c7732ec94a38b6e2c3984d0f73') in 0.041213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
